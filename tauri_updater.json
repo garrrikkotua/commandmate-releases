@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "Minor styling update and better support for MacOS",
-  "pub_date": "2023-04-11T22:40:14.641Z",
+  "version": "0.1.2",
+  "notes": "Better chat UI and persistent chats.",
+  "pub_date": "2023-04-16T19:03:01.519Z",
   "platforms": {
-    "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SG9MUmZuNlBNQ0wyeVRmZlgwdm1TblBhRGgvek4ydmVCRGxFbDRZN0hSb1RDQ1hkUTAySHpySzhiTXJFSUhQMTBta0hTaHlFRGNhOEFaSHI1MVE0SGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMjUyNzk2CWZpbGU6Q29tbWFuZE1hdGUuYXBwLnRhci5negpQYjRoZnVtZWhyUGF5b0xQckJVY0FDU1NCbTY0b2NMNFExczgrd3FhVnBqRk5hZEpBdFFabjV1Z1BENzFnem9GUjN0dDE2b1dmOXhWWi82SnE1Tm5BUT09Cg==",
-      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.1/CommandMate_universal.app.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SHFOZlRGYXYxRUtVQ1pSVnhxUU1tczJDV3ZMc3l6M1JJSHFQV1Y0SlptdFhTY2ZuOHNYZEtPZHdyNzlpZkFzQXh0c0pGdjdtVEU2YWRxQWZ0ZkZMYUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMjUyODExCWZpbGU6Q29tbWFuZE1hdGVfMC4xLjFfeDY0X2VuLVVTLm1zaS56aXAKaXltU0tYcjdkZm8rY0JQSTFUcXN1RmJDTUlBRStiYVJBSTJsVmErQ0xET3FKMngwUUpNMVVlZHBEcGxGeTFxQWc2dnZqMUxVbVg0V0JFR2MxeGFIRGc9PQo=",
-      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.1/CommandMate_0.1.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SG82cUVTdTRHMmoxQjFVS3N5aUJkVkhVbVlaNnh4enRJYmhoNEI4dThNWE1qQklHYnFtWWcweWV4aDRUTFBaZWFPbXhKYkxscnh6VTJnOGUrTWU5TXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNjcxMzkzCWZpbGU6Q29tbWFuZE1hdGVfMC4xLjJfeDY0X2VuLVVTLm1zaS56aXAKR3lDTk5tdG04VFliNERVTCtCQWp5dlJ2UU1NWlpHNmc1aFhSc2gvMG94NVJZcEluZmZaMTVUUGVrRHBOd2lQNkh4eWE5UzZoUUtSRHhRWkRaZHJtQlE9PQo=",
+      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.2/CommandMate_0.1.2_x64_en-US.msi.zip"
+    },
+    "darwin-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SHE1V3UxY3hmVDJxY0M4WTh6MnpRSlZYWWZua2hiZGxNczFYOVBSMmp2U0NVZi9lUHFONWN4TkVjYzRxOHRpUHBSSEQ3RExwR3pxUERoa2YvV05aQVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNjcxNzc3CWZpbGU6Q29tbWFuZE1hdGUuYXBwLnRhci5negorQ0wwZC9sTHBnTnREVDUxaXVuMks2ckFHK0RsZWRMcjdUb1hoNnpBdVpkL3hsVExFMG5qSlpTNjViamFWczVRbkQ1RTdlZ1BrdHBiTTd4dklhNEJCQT09Cg==",
+      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.2/CommandMate_universal.app.tar.gz"
     }
   }
 }
