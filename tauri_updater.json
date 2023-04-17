@@ -1,19 +1,19 @@
 {
-  "version": "0.1.3",
-  "notes": "Better docs and chat UI improvements.",
-  "pub_date": "2023-04-16T21:36:57.376Z",
+  "version": "0.1.4",
+  "notes": "Better updater and clipboard on MacOS.",
+  "pub_date": "2023-04-17T21:17:21.218Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SG9Ta0FNMEMycTNPZEgrcE9BemhxcFpDSGtEbUpuMU16SUVwRVcwdEFuNytLVnBMMVU4dUNjYld6anMxZDZ0Ykg0N3BJdGhBUUFYRVVPN0szOHA2RGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNjgxMDAzCWZpbGU6Q29tbWFuZE1hdGVfMC4xLjNfeDY0X2VuLVVTLm1zaS56aXAKM2pEY0dyc1NIY0VQODdScGIrYVg5cWttTVMrcHdWbU8xRDZFTkJPNDUvZ1JVaTRNK0hkRERaZlNFZVdlRiszU2RwK3BtNk1GUFQrQmJTQnY2THBpQlE9PQo=",
-      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.3/CommandMate_0.1.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SGtFMnF1S3RxVTVVbGkrVnc1cVVzcXpSKzFZaXg2djBHb3VEQmlZZ0RTdXdJWG5OQTd5cStMSmZZSWxYRjV4OFhEVkFxSHlpUW10Qzl4Z3JsSFdsRXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNzY2MTM3CWZpbGU6Q29tbWFuZE1hdGVfMC4xLjRfeDY0X2VuLVVTLm1zaS56aXAKc3lPYUN1Y3pPRm5OcnJ1aW1oU3pFb2JBTTBqem9INUEraHFlNVZ5K1ZDcHRNaFhNY0lGc3VMWjBMY1pBR1hMaW1lVWViVXRBeC9YOTJwRGFwV0hZRFE9PQo=",
+      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.4/CommandMate_0.1.4_x64_en-US.msi.zip"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SHZCMk5mdlhMWmx5OVhNT0o0ZzloaXZHZzRKYjd6RytQNXVPU0puNE0zZHI3RzZQc205QndjbnJpeTg2NG5OU3EwMlVUb2gwRTJucmx4MlBtKzlWNVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNjgxMDEzCWZpbGU6Q29tbWFuZE1hdGUuYXBwLnRhci5negpPbGRYNXByYUNzcDRHZWIvOFBGVHB6OUdobmJlb3o2ZkRIUm9XdURnWnI0K1UrRkhpS2l0c201L2VNamVFZk0vTHFLZW1vNDRENzNxcGdCSzFVaHpEQT09Cg==",
-      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.3/CommandMate_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SGlUYm0zRExJT1NORm9GTC9wMzNJMEUvWTVOVWFkWkQ0M0RBVjlMcHVBaDlpZ3JqdnVKRHY1MnNLZkI1bXhUcEUrRFhGTHRTQ3RsallDeTI5YU1yUGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNzY2MjM3CWZpbGU6Q29tbWFuZE1hdGUuYXBwLnRhci5nego2V01QUm5qT0QyTUJuaGE2SE5CRWpPazhzZ0hZcnp2YWtlR0VBQlB3dTd1VGFqUmVra1JmdzJFZnEycUhQWWhZMnJwZ0djemVlY1F2RlVxL2tGRVpCQT09Cg==",
+      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.4/CommandMate_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SHZCMk5mdlhMWmx5OVhNT0o0ZzloaXZHZzRKYjd6RytQNXVPU0puNE0zZHI3RzZQc205QndjbnJpeTg2NG5OU3EwMlVUb2gwRTJucmx4MlBtKzlWNVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNjgxMDEzCWZpbGU6Q29tbWFuZE1hdGUuYXBwLnRhci5negpPbGRYNXByYUNzcDRHZWIvOFBGVHB6OUdobmJlb3o2ZkRIUm9XdURnWnI0K1UrRkhpS2l0c201L2VNamVFZk0vTHFLZW1vNDRENzNxcGdCSzFVaHpEQT09Cg==",
-      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.3/CommandMate_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbk54MkZIbnc1SGlUYm0zRExJT1NORm9GTC9wMzNJMEUvWTVOVWFkWkQ0M0RBVjlMcHVBaDlpZ3JqdnVKRHY1MnNLZkI1bXhUcEUrRFhGTHRTQ3RsallDeTI5YU1yUGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNzY2MjM3CWZpbGU6Q29tbWFuZE1hdGUuYXBwLnRhci5nego2V01QUm5qT0QyTUJuaGE2SE5CRWpPazhzZ0hZcnp2YWtlR0VBQlB3dTd1VGFqUmVra1JmdzJFZnEycUhQWWhZMnJwZ0djemVlY1F2RlVxL2tGRVpCQT09Cg==",
+      "url": "https://github.com/garrrikkotua/commandmate-releases/releases/download/app-v0.1.4/CommandMate_universal.app.tar.gz"
     }
   }
 }
